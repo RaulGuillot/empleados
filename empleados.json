@@ -1,0 +1,30 @@
+[
+    {
+        "nombre": "Javier",
+        "apellido": "Perez",
+        "id": 4578,
+        "cursos": [
+            "Word",
+            "C++",
+            "Go"
+        ]
+    },
+    {
+        "nombre": "Wily",
+        "apellido": "Sanchez",
+        "id": 7856,
+        "cursos": [
+            "Power Poin",
+            "React"
+        ]
+    },
+    {
+        "nombre": "Yanina",
+        "apellido": "Gomez",
+        "id": 1245,
+        "cursos": [
+            "Word",
+            "Excel"
+        ]
+    }
+]
